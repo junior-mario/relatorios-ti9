@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-05-05T18:50:00Z",
+  "slack_channel_id": "C0B1VKF2QF6",
+  "pages_url": "https://junior-mario.github.io/relatorios-ti9/",
+  "tickets": {
+    "57245": {
+      "subject": "Erro de ICMS (valor mínimo)",
+      "last_message_id": "AAMkADk2Mjk4ODg3LTQ0MzgtNDkyMS1iMzAzLWMzNDdmNDg1ZjAxOQBGAAAAAAAJBdphLWQuT6g_kiewdP95BwC8h1pRcqcJTYQiZWKUtgubAAAAAAEMAAC8h1pRcqcJTYQiZWKUtgubAAQhKMakAAA=",
+      "last_received": "2026-05-05T18:05:16Z",
+      "last_status": "Script executado; aguardando conferência interna"
+    },
+    "57917": {
+      "subject": "Divergência de valores no check-out – Apartamento Jasmin",
+      "last_message_id": "AAMkADk2Mjk4ODg3LTQ0MzgtNDkyMS1iMzAzLWMzNDdmNDg1ZjAxOQBGAAAAAAAJBdphLWQuT6g_kiewdP95BwC8h1pRcqcJTYQiZWKUtgubAAALGL4XAAC8h1pRcqcJTYQiZWKUtgubAAQjAcyMAAA=",
+      "last_received": "2026-05-05T15:35:55Z",
+      "last_status": "Em andamento; aguardando parecer final da TI9"
+    },
+    "58704": {
+      "subject": "Verificação de log de comanda",
+      "last_message_id": "AAMkADk2Mjk4ODg3LTQ0MzgtNDkyMS1iMzAzLWMzNDdmNDg1ZjAxOQBGAAAAAAAJBdphLWQuT6g_kiewdP95BwC8h1pRcqcJTYQiZWKUtgubAAALGL4XAAC8h1pRcqcJTYQiZWKUtgubAAQjAcyKAAA=",
+      "last_received": "2026-05-04T18:11:58Z",
+      "last_status": "Em andamento; aguardando acesso/análise de log pela TI9"
+    },
+    "57444": {
+      "subject": "Consumo de API",
+      "last_message_id": "AAMkADk2Mjk4ODg3LTQ0MzgtNDkyMS1iMzAzLWMzNDdmNDg1ZjAxOQBGAAAAAAAJBdphLWQuT6g_kiewdP95BwC8h1pRcqcJTYQiZWKUtgubAAALGL4XAAC8h1pRcqcJTYQiZWKUtgubAAQdk3IFAAA=",
+      "last_received": "2026-05-04T17:16:14Z",
+      "last_status": "Aguardando detalhamento de escopo"
+    },
+    "54391": {
+      "subject": "Extração de dados - TI9 (Por hora)",
+      "last_message_id": "AAMkADk2Mjk4ODg3LTQ0MzgtNDkyMS1iMzAzLWMzNDdmNDg1ZjAxOQBGAAAAAAAJBdphLWQuT6g_kiewdP95BwC8h1pRcJTYQiZWKUtgubAAALGL4XAAC8h1pRcqcJTYQiZWKUtgubAAQdk3IHAAA=",
+      "last_received": "2026-05-04T16:12:24Z",
+      "last_status": "Em andamento; aguardando acesso remoto"
+    }
+  }
+}
